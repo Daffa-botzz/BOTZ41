@@ -39,10 +39,9 @@ ${menu(listmenu.emostick, "EMOSTICK", prefix)}
 ${menu(listmenu.tagrandom, "TAGRANDOM", prefix)}`
 // JANGAN UBAH/HAPUS THX TO🤥
 var cr = `╭━─━•[ *THX-TO* ]⊱
-┃•  *ADHIRAJ SINGH*
-┃•  *RIMURUBOTZ*
-┃•  *LOLI KILLERS*
-┃•  *LORD R1YNZ*
+┃•  *Daffa Botzz*
+┃•  *DUTA GAMER*
+┃•  *Brainxiex*
 ╰━─━─━─━─━─━─━─•`
 return help1
 }
