@@ -1,5 +1,5 @@
 {
-  "name": "rimurubot",
+  "name": "Brainxiex D",
   "version": "1.0.0",
   "description": 41,
   "main": "index.js",
@@ -12,7 +12,7 @@
     "multidevice",
     "multi-device"
   ],
-  "author": "Rimurubotz",
+  "author": "Brainxiex D",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",     
